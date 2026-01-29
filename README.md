@@ -1,2 +1,3 @@
 # ba-nicolly
-primeiro projeto do curso 
+primeiro repositorio criado durante a aula 
+
